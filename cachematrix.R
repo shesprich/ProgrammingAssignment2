@@ -2,8 +2,8 @@
 ## functions do
 
 ## These functions are designed to save time calculating the inverse of a
-## matrix by creating a object which can store matrix data as well as its own
-## inverse.
+## matrix by creating a special matrix object which can store matrix data as 
+## well as its own inverse.
 
 ## Write a short comment describing this function:
 ## makeCacheMatrix creates a special matrix object which can store the matrix 
